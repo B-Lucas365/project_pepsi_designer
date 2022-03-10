@@ -1,1 +1,1 @@
-<h1>Project pepsi designer</h1>
+<h1>Project Pepsi Designer</h1>
